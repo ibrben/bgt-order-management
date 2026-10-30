@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BGT.Order.Api/BGT.Order.Api.csproj" />
+    <Project Path="src/BGT.Order.Application/BGT.Order.Application.csproj" />
+    <Project Path="src/BGT.Order.Domain/BGT.Order.Domain.csproj" />
+    <Project Path="src/BGT.Order.Infrastructure/BGT.Order.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BGT.Order.Tests/BGT.Order.Tests.csproj" />
+  </Folder>
+</Solution>

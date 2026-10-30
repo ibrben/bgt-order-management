@@ -1,0 +1,15 @@
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/obj/Debug/net10.0/BGT.Order.Application.csproj.AssemblyReference.cache
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/obj/Debug/net10.0/BGT.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/obj/Debug/net10.0/BGT.Order.Application.AssemblyInfoInputs.cache
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/obj/Debug/net10.0/BGT.Order.Application.AssemblyInfo.cs
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/obj/Debug/net10.0/BGT.Order.Application.csproj.CoreCompileInputs.cache
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/bin/Debug/net10.0/BGT.Order.Application.deps.json
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/bin/Debug/net10.0/BGT.Order.Application.dll
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/bin/Debug/net10.0/BGT.Order.Application.pdb
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/bin/Debug/net10.0/BGT.Order.Domain.dll
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/bin/Debug/net10.0/BGT.Order.Domain.pdb
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/obj/Debug/net10.0/BGT.Orde.AD150BA1.Up2Date
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/obj/Debug/net10.0/BGT.Order.Application.dll
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/obj/Debug/net10.0/refint/BGT.Order.Application.dll
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/obj/Debug/net10.0/BGT.Order.Application.pdb
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Application/obj/Debug/net10.0/ref/BGT.Order.Application.dll

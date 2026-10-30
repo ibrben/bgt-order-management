@@ -1,0 +1,11 @@
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/bin/Debug/net10.0/BGT.Order.Domain.deps.json
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/bin/Debug/net10.0/BGT.Order.Domain.dll
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/bin/Debug/net10.0/BGT.Order.Domain.pdb
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/obj/Debug/net10.0/BGT.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/obj/Debug/net10.0/BGT.Order.Domain.AssemblyInfoInputs.cache
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/obj/Debug/net10.0/BGT.Order.Domain.AssemblyInfo.cs
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/obj/Debug/net10.0/BGT.Order.Domain.csproj.CoreCompileInputs.cache
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/obj/Debug/net10.0/BGT.Order.Domain.dll
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/obj/Debug/net10.0/refint/BGT.Order.Domain.dll
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/obj/Debug/net10.0/BGT.Order.Domain.pdb
+/Users/ibr/Desktop/bgt-test/src/BGT.Order.Domain/obj/Debug/net10.0/ref/BGT.Order.Domain.dll
